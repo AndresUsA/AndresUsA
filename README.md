@@ -24,7 +24,7 @@
 
 ## Agradecimientos
 
-Agradezco a Yudi Aleyda Calan Chan por su invaluable apoyo y orientación.
+Agradezco a https:/www.github.com/YudiCC/ por su invaluable apoyo y orientación.
 
 ## Sígueme
 
