@@ -6,17 +6,37 @@
 
 - 👨‍💻 Desarrollador entusiasta y apasionado.
 - 🎓 Actualmente estudiando en Instituto Tecnológico Superior de Calkini.
-- 💼 Actualmente trabajando en Mejoramiento de conocimiento para Desarrollador BackEnd.
+- 💼 Actualmente trabajando en Mejoramiento de conocimientos para Desarrollador BackEnd.
 - 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías.
 - 💬 Pregúntame sobre desarrollo web, aplicaciones móviles y mucho más.
 - 📫 Cómo contactarme: 8070@itescam.edu.mx
 
 ## Tecnologías que Utilizo
+<p align="center">
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) 
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) 
+  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
+  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-%23026AA7.svg?style=plastic&logo=git&logoColor=white)  
+</p>
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP,Phyton,Java, Mysql, MongoDB
-- Otros: Git, GitHub
+# 📊 Estadísticas de GitHub:
+![](https://github-readme-stats.vercel.app/api?username=lemyusar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lemyusar&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lemyusar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=lemyusar&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ## Contribuir
 
@@ -24,11 +44,17 @@
 
 ## Agradecimientos
 
-Agradezco a https:/www.github.com/YudiCC/ por su invaluable apoyo y orientación.
+Agradezco a [YuDiCC](https://github.com/YuDiCC/) por su invaluable apoyo y orientación.
 
 ## Sígueme
 
-- [LinkedIn](https://www.linkedin.com/in/andresusar/)
-- [Instagram](https://www.instagram.com/andres_us_98)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lemuel.us) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andres_us_98) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andresusar) 
 
 ¡Gracias por visitar mi repositorio!
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
