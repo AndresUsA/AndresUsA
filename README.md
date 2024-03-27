@@ -9,7 +9,7 @@
 - 💼 Actualmente trabajando en Mejoramiento de conocimiento para Desarrollador BackEnd.
 - 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías.
 - 💬 Pregúntame sobre desarrollo web, aplicaciones móviles y mucho más.
-- 📫 Cómo contactarme: mailto:8070@itescam.edu.mx
+- 📫 Cómo contactarme: 8070@itescam.edu.mx
 
 ## Tecnologías que Utilizo
 
