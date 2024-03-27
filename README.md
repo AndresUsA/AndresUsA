@@ -13,8 +13,8 @@
 
 ## Tecnologías que Utilizo
 
-- Frontend: HTML, CSS, JavaScript, Php
-- Backend: Phyton,Java, Mysql, MongoDB
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP,Phyton,Java, Mysql, MongoDB
 - Otros: Git, GitHub
 
 
